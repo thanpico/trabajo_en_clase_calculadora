@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="test">250dp</dimen>
+    <dimen name="hijo">25dp</dimen>
+    <dimen name="alto">100dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="resultado">100sp</dimen>
+    <dimen name="numbers">20dp</dimen>
+</resources>
